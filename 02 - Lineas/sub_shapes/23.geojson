@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "23",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "X_id": 3, "id": 2, "name": "Línea 7", "descrpt": null, "altitdm": null, "g_pnt_2": "19.4333358254,-99.1903766057", "linea": "7" }, "geometry": { "type": "LineString", "coordinates": [ [ -99.189586, 19.3607037 ], [ -99.1878051, 19.3761645 ], [ -99.1863245, 19.3847724 ], [ -99.1860509, 19.3912798 ], [ -99.187081082210739, 19.40297973254566 ] ] } }
+]
+}
